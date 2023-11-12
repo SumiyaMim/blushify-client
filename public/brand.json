@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "brand_name": "CHANEL",
+      "brand_image": "https://i.ibb.co/nMGVB4f/chanel.jpg",
+      "slider1": "https://i.ibb.co/GsXHLz9/chanel1.jpg",
+      "slider2": "https://i.ibb.co/qxV4MkV/chanel2.jpg",
+      "slider3": "https://i.ibb.co/cJnHR5t/chanel3.jpg"
+    },
+    {
+      "id": "2",
+      "brand_name": "Dior",
+      "brand_image": "https://i.ibb.co/hmKnPfH/dior.jpg",
+      "slider1": "https://i.ibb.co/091nMRX/dior1.jpg",
+      "slider2": "https://i.ibb.co/7N0vqnQ/dior2.jpg",
+      "slider3": "https://i.ibb.co/ccyHBYd/dior3.jpg"
+    },
+    {
+      "id": "3",
+      "brand_name": "L'Oréal Paris",
+      "brand_image": "https://i.ibb.co/YcFFPtp/loreal.jpg",
+      "slider1": "https://i.ibb.co/FJwL321/loreal1.jpg",
+      "slider2": "https://i.ibb.co/0Ypn8fs/loreal2.png",
+      "slider3": "https://i.ibb.co/fqQ9G1G/loreal3.jpg"
+    },
+    {
+      "id": "4",
+      "brand_name": "M·A·C Cosmetics",
+      "brand_image": "https://i.ibb.co/gVx2FxM/mac.jpg",
+      "slider1": "https://i.ibb.co/StbttJ9/mac1.jpg",
+      "slider2": "https://i.ibb.co/bdpLRbZ/mac2.jpg",
+      "slider3": "https://i.ibb.co/m8j0T8z/mac3.jpg"
+    },
+    {
+      "id": "5",
+      "brand_name": "Revlon",
+      "brand_image": "https://i.ibb.co/rxDkzcy/revlon.jpg",
+      "slider1": "https://i.ibb.co/qJCcF39/revlon1.jpg",
+      "slider2": "https://i.ibb.co/ftkCqKy/revlon2.jpg",
+      "slider3": "https://i.ibb.co/Kh1pGhk/revlon3.jpg"
+    },
+    {
+      "id": "6",
+      "brand_name": "Urban Decay Cosmetics",
+      "brand_image": "https://i.ibb.co/P1FKH7v/urban.jpg",
+      "slider1": "https://i.ibb.co/TTr9wR3/urban1.jpg",
+      "slider2": "https://i.ibb.co/2Wv7dqq/urban2.jpg",
+      "slider3": "https://i.ibb.co/k8SLRvQ/urban3.jpg"
+    }
+  ]
+  
