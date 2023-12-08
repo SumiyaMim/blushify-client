@@ -1,6 +1,6 @@
 # My Project Description
 
-"Blushify" is an exciting project in the realm of Cosmetics and Beauty, offering a range of innovative features to enhance your beauty routine. These features include:
+Blushify is an exciting project in the realm of Cosmetics and Beauty, offering a range of innovative features to enhance your beauty routine. These features include:
 
 - User Registration and Login: In this website, the user registration and login system allows users to create accounts and access more features.
 - Theme Toggle: Users can switch between light and dark themes based on their preferences.
