@@ -1,5 +1,3 @@
-- Live Link: https://blushify-7f7a8.web.app/
-
 # My Project Description
 
 "Blushify" is an exciting project in the realm of Cosmetics and Beauty, offering a range of innovative features to enhance your beauty routine. These features include:
